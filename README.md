@@ -20,11 +20,12 @@ It analyzes any resume text you input and responds with bullet-point feedback co
 *(Replace with your actual agent link)*
 
 ## 📹 Demo Video
-👉 [Watch the demo](YOUR_DEMO_VIDEO_LINK)
+👉 [Watch the demo](https://drive.google.com/file/d/1LodAJYmu41OIX1ct3By4_dfhA-xbSUZB/view?usp=drive_link)
 
 ## 🖼 Screenshots
-![Agent Screenshot](screenshot1.png)
-*(Add screenshots if you like)*
+![Agent Screenshot]
+![Screenshot 2025-07-04 143727](https://github.com/user-attachments/assets/8e22179b-86f1-439b-9bfa-d8de1e067feb)
+
 
 ## 📂 Project Structure
 - `README.md` – this file
@@ -33,7 +34,7 @@ It analyzes any resume text you input and responds with bullet-point feedback co
 - `demo.mp4` – recorded demo video
 
 ## ✏️ Built With
-- [Lyzr.ai Studio](https://lyzr.ai)
+- [Lyzr.ai Studio](https://studio.lyzr.ai/agent/686793cff0dbdb866a537187)
 - GPT-4o-mini (OpenAI)
 
 ## 🙌 Future improvements
